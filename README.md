@@ -14,5 +14,7 @@ grid instructions:
   buttons are octaves down & up respectively
 
 arc instruction
+
 • encoder 0 controls the velocity of the key press
+
 • encoder 1 controls the length of the note, in ms.
